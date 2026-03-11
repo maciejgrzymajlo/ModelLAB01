@@ -18,13 +18,10 @@ Aktualność modelu
 Deweloperskie: Raz nauczony model jest zapisywany do pliku.
 Produkcyjne: Dane się zmieniają więc model z czasem staje się mniej dokładny
 
+Monitorowanie
+Deweloperskie: Sam sprawdzam czy model działa.
+Produkcyjne: Musi być system, który sprawdza czy model działa poprawnie
 
 link do repozytorium
 https://github.com/maciejgrzymajlo/ModelLAB01
 
-
-
-
-Monitorowanie
-Deweloperskie: Sam sprawdzam czy model działa.
-Produkcyjne: Musi być system, który sprawdza czy model działa poprawnie
